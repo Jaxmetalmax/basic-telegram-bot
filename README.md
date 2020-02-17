@@ -1,2 +1,2 @@
-# Repo basic Telegram Bot
-#### by Jaxmetal666
+# Repositorio basic Telegram Bot
+### by Jaxmetal666
